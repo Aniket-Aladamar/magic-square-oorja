@@ -1,0 +1,27 @@
+{
+  "magicsquare": {
+    "playerProfile": {
+      "username": "Player1",
+      "score": 100,
+      "attempts": 1,
+      "currentLevel": 2
+    },
+    "levels": {
+      "1": {
+        "size": 3,
+        "sum": 15,
+        "timeLimit": 120
+      },
+      "2": {
+        "size": 3,
+        "sum": 13,
+        "timeLimit": 120
+      },
+      "3": {
+        "size": 3,
+        "sum": 20,
+        "timeLimit": 180
+      }
+    }
+  }
+}
