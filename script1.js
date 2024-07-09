@@ -1,4 +1,4 @@
-let file = './magicsquare.json';
+let file = 'magicsquare.json';
 let countdownInterval;
 let remainingTime;
 let jsonData;

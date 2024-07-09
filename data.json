@@ -1,8 +1,13 @@
 {
   "playerProfile": {
     "username": "Player1",
+<<<<<<< HEAD
     "score": 0,
     "attempts": 0,
+=======
+    "score": 000,
+    "attempts": 1,
+>>>>>>> d3702b2f486d07ca7612d26a0733bdefabdbd9dc
     "currentLevel": 1
   },
   "levels": {
